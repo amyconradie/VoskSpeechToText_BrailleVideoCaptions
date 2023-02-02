@@ -1,7 +1,9 @@
 # Braille Video Captioning Software
 
-For the purpose of printing to a Refereshable Braille Display, this software uses the Vosk API to convert Speech to Text, and then 
+## Description
+For the purpose of printing to a Refereshable Braille Display, this software uses the Vosk API to convert Speech to Text, and then a English to Grade 2 Unified English Braile, which is then displayed using the Pillow library.
 
+## Run the software
 To run, download the repo and run the 'main.py' file.
 Make sure to have a working camera and microphone connected to your device.
 
